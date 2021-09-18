@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DanielBorges91/NLW-6-Together-Nodejs.git",
+  "author": "Daniel <danprog91@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
